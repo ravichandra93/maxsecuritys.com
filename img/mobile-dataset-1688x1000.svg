@@ -1,0 +1,235 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1688 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        font-size: 21px;
+      }
+
+      .cls-2, .cls-27 {
+        fill: #3eb655;
+      }
+
+      .cls-2, .cls-28 {
+        font-family: Avenir Next;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -1px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-23, .cls-24, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #bec3c5;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-23, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 2.6px;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 2.59 7.78;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-width: 2.75px;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 2.71 8.14;
+      }
+
+      .cls-8, .cls-9 {
+        stroke-width: 2.85px;
+      }
+
+      .cls-9 {
+        stroke-dasharray: 2.83 8.49;
+      }
+
+      .cls-10, .cls-11 {
+        stroke-width: 2.99px;
+      }
+
+      .cls-11 {
+        stroke-dasharray: 3.03 9.08;
+      }
+
+      .cls-12, .cls-13 {
+        stroke-width: 3.18px;
+      }
+
+      .cls-13 {
+        stroke-dasharray: 3.16 9.49;
+      }
+
+      .cls-14, .cls-15 {
+        stroke-width: 3.43px;
+      }
+
+      .cls-15 {
+        stroke-dasharray: 3.4 10.2;
+      }
+
+      .cls-16, .cls-17 {
+        stroke-width: 3.74px;
+      }
+
+      .cls-17 {
+        stroke-dasharray: 3.78 11.33;
+      }
+
+      .cls-18, .cls-19 {
+        stroke-width: 4.12px;
+      }
+
+      .cls-19 {
+        stroke-dasharray: 4.1 12.3;
+      }
+
+      .cls-20, .cls-21 {
+        stroke-width: 4.53px;
+      }
+
+      .cls-21 {
+        stroke-dasharray: 4.5 13.51;
+      }
+
+      .cls-22 {
+        opacity: 0.58;
+        mix-blend-mode: lighten;
+      }
+
+      .cls-22, .cls-25 {
+        filter: url(#AI_GaussianBlur_7);
+      }
+
+      .cls-23 {
+        stroke: #3a3a3a;
+        stroke-width: 5px;
+      }
+
+      .cls-24 {
+        stroke: #3eb655;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6.69px;
+      }
+
+      .cls-26 {
+        fill: #7b7b7b;
+      }
+
+      .cls-28 {
+        font-size: 20px;
+        fill: #fff;
+      }
+    </style>
+    <filter id="AI_GaussianBlur_7" name="AI_GaussianBlur_7">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+  <title>mobile-dataset-1688x1000</title>
+  <g class="cls-1">
+    <g id="Chart">
+      <text class="cls-2" transform="translate(124.44 931.39)">2004</text>
+      <text class="cls-2" transform="translate(1475.46 931.39)">T<tspan x="11.57" y="0">O</tspan><tspan x="29.44" y="0">D</tspan><tspan class="cls-3" x="45.19" y="0">A</tspan><tspan x="59.24" y="0">Y</tspan></text>
+      <g id="Line_2008" data-name="Line 2008">
+        <g>
+          <line class="cls-4" x1="221.3" y1="985.73" x2="221.3" y2="984.43"/>
+          <line class="cls-5" x1="221.3" y1="976.65" x2="221.3" y2="669.47"/>
+          <line class="cls-4" x1="221.3" y1="665.58" x2="221.3" y2="664.28"/>
+        </g>
+      </g>
+      <g id="Line_2009" data-name="Line 2009">
+        <g>
+          <line class="cls-6" x1="372.45" y1="985.73" x2="372.45" y2="984.36"/>
+          <line class="cls-7" x1="372.45" y1="976.22" x2="372.45" y2="632.95"/>
+          <line class="cls-6" x1="372.45" y1="628.88" x2="372.45" y2="627.51"/>
+        </g>
+      </g>
+      <g id="Line_2010" data-name="Line 2010">
+        <g>
+          <line class="cls-8" x1="523.61" y1="985.73" x2="523.61" y2="984.31"/>
+          <line class="cls-9" x1="523.61" y1="975.82" x2="523.61" y2="606.62"/>
+          <line class="cls-8" x1="523.61" y1="602.38" x2="523.61" y2="600.95"/>
+        </g>
+      </g>
+      <g id="Line_2011" data-name="Line 2011">
+        <g>
+          <line class="cls-10" x1="674.76" y1="985.73" x2="674.76" y2="984.24"/>
+          <line class="cls-11" x1="674.76" y1="975.16" x2="674.76" y2="568.17"/>
+          <line class="cls-10" x1="674.76" y1="563.64" x2="674.76" y2="562.14"/>
+        </g>
+      </g>
+      <g id="LIne_2012" data-name="LIne 2012">
+        <g>
+          <line class="cls-12" x1="825.92" y1="985.73" x2="825.92" y2="984.14"/>
+          <line class="cls-13" x1="825.92" y1="974.65" x2="825.92" y2="511.28"/>
+          <line class="cls-12" x1="825.92" y1="506.54" x2="825.92" y2="504.95"/>
+        </g>
+      </g>
+      <g id="Line_2013" data-name="Line 2013">
+        <g>
+          <line class="cls-14" x1="977.07" y1="985.73" x2="977.07" y2="984.02"/>
+          <line class="cls-15" x1="977.07" y1="973.82" x2="977.07" y2="435.02"/>
+          <line class="cls-14" x1="977.07" y1="429.92" x2="977.07" y2="428.2"/>
+        </g>
+      </g>
+      <g id="LIne_2014" data-name="LIne 2014">
+        <g>
+          <line class="cls-16" x1="1128.22" y1="985.73" x2="1128.22" y2="983.86"/>
+          <line class="cls-17" x1="1128.22" y1="972.53" x2="1128.22" y2="328.64"/>
+          <line class="cls-16" x1="1128.22" y1="322.97" x2="1128.22" y2="321.1"/>
+        </g>
+      </g>
+      <g id="Line_2015" data-name="Line 2015">
+        <g>
+          <line class="cls-18" x1="1279.38" y1="985.73" x2="1279.38" y2="983.67"/>
+          <line class="cls-19" x1="1279.38" y1="971.37" x2="1279.38" y2="190.41"/>
+          <line class="cls-18" x1="1279.38" y1="184.26" x2="1279.38" y2="182.2"/>
+        </g>
+      </g>
+      <g id="Line_2016" data-name="Line 2016">
+        <g>
+          <line class="cls-20" x1="1430.53" y1="985.73" x2="1430.53" y2="983.47"/>
+          <line class="cls-21" x1="1430.53" y1="969.95" x2="1430.53" y2="21.68"/>
+          <line class="cls-20" x1="1430.53" y1="14.92" x2="1430.53" y2="12.65"/>
+        </g>
+      </g>
+    </g>
+    <g id="Green_Curve" data-name="Green Curve">
+      <g class="cls-22">
+        <path class="cls-23" d="M141.61,857.54c155.53,8.92,535.57-8.59,816.23-162.47S1436,297.7,1515.36,64.13"/>
+      </g>
+      <path id="Curve" class="cls-24" d="M141.61,857.54C297.52,861,622,823.75,902.11,677.37,1185.74,529.17,1436,297.7,1515.36,64.13"/>
+    </g>
+    <g id="Green_Card" data-name="Green Card">
+      <g class="cls-25">
+        <rect class="cls-26" x="1401.18" y="43.5" width="213.87" height="51.5"/>
+      </g>
+      <rect id="Green_Card-2" data-name="Green Card" class="cls-27" x="1401.18" y="41.98" width="213.87" height="54.54"/>
+      <text class="cls-28" transform="translate(1426.53 75.54)">OUR SUCCESS</text>
+      <circle class="cls-27" cx="290.62" cy="849.75" r="12.5"/>
+      <circle class="cls-27" cx="451.03" cy="827" r="12.5"/>
+      <circle class="cls-27" cx="599.19" cy="793.34" r="12.5"/>
+      <circle class="cls-27" cx="747.75" cy="745.34" r="12.5"/>
+      <circle class="cls-27" cx="901.49" cy="676.78" r="12.5"/>
+      <circle class="cls-27" cx="1052.65" cy="588.45" r="12.5"/>
+      <circle class="cls-27" cx="1201.8" cy="476.28" r="12.5"/>
+      <circle class="cls-27" cx="1352.96" cy="329.6" r="12.5"/>
+      <circle class="cls-27" cx="141.61" cy="857.75" r="12.5"/>
+    </g>
+  </g>
+</svg>
